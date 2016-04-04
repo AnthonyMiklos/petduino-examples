@@ -10,4 +10,4 @@ This repository holds example code for the Petduino, which Datto is using for it
 
 ## Student mentors
 
-Student mentors: create a list below and add yourself to it! (Please use only your last initial)
+Student mentors: create a list below and add yourself to it!
